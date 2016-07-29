@@ -1,0 +1,17 @@
+{
+  "name": "Keeex Hello World",
+  "version": "0.1.0",
+  "description": "Template plugin for Keeex",
+  "main": "index.html",
+  "icon": "icon.png",
+  "window": {
+    "width": 800,
+    "height": 600,
+    "toolbar": true
+  },
+  "dependencies": {
+    "async": "^2.0.1",
+    "keeex-api": "^0.1.1",
+    "request": "^2.73.0"
+  }
+}
